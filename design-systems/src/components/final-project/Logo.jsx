@@ -5,5 +5,5 @@ export const Logo = styled.div`
   background: ${(props) => (props.inverse ? "#0F1623" : "white")};
   width: var(--size);
   height: var(--size);
-  ${(props) => !props.square && "border-radius: 50%"}
+  ${(props) => !props.square && "border-radius: 50%;"}
 `;
