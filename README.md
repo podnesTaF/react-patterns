@@ -1,8 +1,3 @@
-﻿# react-patterns
- In this repo, I will practice advanced react patterns / best practices
+﻿# PPP course: Advanced React
 
-## Topics covered:
-- Components design patterns
-- Design systems
-- Performance
-- react typescript architecture
+Practical technics in React
